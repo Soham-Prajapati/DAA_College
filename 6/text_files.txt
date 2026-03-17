@@ -1,0 +1,10 @@
+inputs/texts/text_1k.txt
+inputs/texts/text_2k.txt
+inputs/texts/text_3k.txt
+inputs/texts/text_4k.txt
+inputs/texts/text_5k.txt
+inputs/texts/text_6k.txt
+inputs/texts/text_7k.txt
+inputs/texts/text_8k.txt
+inputs/texts/text_9k.txt
+inputs/texts/text_10k.txt

@@ -1,0 +1,10 @@
+inputs/patterns/pattern_10.txt
+inputs/patterns/pattern_20.txt
+inputs/patterns/pattern_30.txt
+inputs/patterns/pattern_40.txt
+inputs/patterns/pattern_50.txt
+inputs/patterns/pattern_60.txt
+inputs/patterns/pattern_70.txt
+inputs/patterns/pattern_80.txt
+inputs/patterns/pattern_90.txt
+inputs/patterns/pattern_100.txt

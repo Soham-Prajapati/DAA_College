@@ -1,0 +1,1 @@
+g. Rabin Karp algorithm uses r
